@@ -36,7 +36,6 @@ setup(name='gibson',
             'mpi4py>=2.0.0',
             'cloudpickle>=0.4.1',
             'pygame>=1.9.3',
-            'opencv-python',
             'torchvision==0.2.0',
             'aenum'
     ],
